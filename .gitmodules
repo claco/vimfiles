@@ -1,0 +1,39 @@
+[submodule "bundle/vim-fugitive"]
+	path = bundle/vim-fugitive
+	url = git@github.com:tpope/vim-fugitive.git
+[submodule "bundle/vim-nerdtree"]
+	path = bundle/vim-nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = git@github.com:altercation/vim-colors-solarized.git
+[submodule "bundle/vim-nerdcommenter"]
+	path = bundle/vim-nerdcommenter
+	url = git@github.com:scrooloose/nerdcommenter.git
+[submodule "bundle/vim-ack"]
+	path = bundle/vim-ack
+	url = git@github.com:mileszs/ack.vim.git
+[submodule "bundle/vim-syntastic"]
+	path = bundle/vim-syntastic
+	url = git@github.com:scrooloose/syntastic.git
+[submodule "bundle/vim-flake8"]
+	path = bundle/vim-flake8
+	url = git@github.com:nvie/vim-flake8.git
+[submodule "bundle/vim-surround"]
+	path = bundle/vim-surround
+	url = git@github.com:tpope/vim-surround.git
+[submodule "bundle/vim-autoclose"]
+	path = bundle/vim-autoclose
+	url = git@github.com:Townk/vim-autoclose.git
+[submodule "bundle/vim-endwise"]
+	path = bundle/vim-endwise
+	url = git@github.com:tpope/vim-endwise.git
+[submodule "bundle/vim-supertab"]
+	path = bundle/vim-supertab
+	url = git@github.com:ervandew/supertab.git
+[submodule "bundle/vim-command-t"]
+	path = bundle/vim-command-t
+	url = git@github.com:wincent/command-t.git
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
