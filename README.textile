@@ -1,0 +1,8 @@
+h2. Setup
+
+Clone into a directory of your choosing and run @rake setup@.
+
+# @git clone git://github.com/claco/vimfiles.git somedir@
+# @cd somedir@
+# @rake setup@
+# @vim@
